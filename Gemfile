@@ -19,6 +19,9 @@ gem 'puma', '~> 5.0'
 # Rubocop linter
 gem 'rubocop', '>= 1.0', '< 2.0'
 
+# rack-cors 
+gem 'rack-cors'
+
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 
