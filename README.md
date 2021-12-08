@@ -43,7 +43,7 @@ API endpoint: `/api/greetings`
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/toliboff/hello-rails-react/issues).
+Feel free to check the [issues page](https://github.com/toliboff/hello-rails-back-end/issues).
 
 ## Show your support
 
